@@ -26,4 +26,5 @@ public class Verification extends BaseAssertion{
     protected void assertEquals(String actual, String expected, String message) {
         Assert.assertEquals(actual, expected, message);
     }
+
 }

@@ -64,4 +64,5 @@ public abstract class BaseAssertion {
         );
         assertTrue(FileUtils.isFileExists(fileName), message);
     }
+
 }

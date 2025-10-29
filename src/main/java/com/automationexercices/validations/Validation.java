@@ -48,4 +48,5 @@ public class Validation extends BaseAssertion{
             softAssert = new SoftAssert(); // Reset the soft assert instance
        }
     }
+
 }
